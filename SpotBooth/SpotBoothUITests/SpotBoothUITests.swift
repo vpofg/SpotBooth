@@ -2,7 +2,7 @@
 //  SpotBoothUITests.swift
 //  SpotBoothUITests
 //
-//  Created by Kacper Domagała on 25/02/2023.
+//  Created by SpotBooth on 25/02/2023.
 //
 
 import XCTest
